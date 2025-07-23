@@ -1,0 +1,1 @@
+![SDLC test](SDLC/SDLC_Assesment.png)
