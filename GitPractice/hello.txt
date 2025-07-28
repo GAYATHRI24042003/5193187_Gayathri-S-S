@@ -1,2 +1,7 @@
 Hello Gayathri
 
+<<<<<<< HEAD
+Main branch update
+=======
+Rebase demo line
+>>>>>>> 25ff235 (Added line for rebase demo)
