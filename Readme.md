@@ -6,3 +6,6 @@ SimplyLearn Certificate:
 
 Git Basic Certificate in CodeSignal:
 ![CodeSignal Git Basics](GitPractice/certificate_git_basics.png)
+
+Git Branching Certificate in CodeSignal:
+![CodeSignal Git Branching](GitPractice/certificate_git_branching.png)
