@@ -1,0 +1,22 @@
+From d74f8d922550b92f1cbe994115c2e8d7236edb83 Mon Sep 17 00:00:00 2001
+From: Gayathri <gayathrishankar2404@gmail.com>
+Date: Mon, 28 Jul 2025 22:38:24 +0530
+Subject: [PATCH] Patch demo: Added a line to hello.txt
+
+---
+ GitPractice/hello.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/GitPractice/hello.txt b/GitPractice/hello.txt
+index 5723ffe..917c328 100644
+--- a/GitPractice/hello.txt
++++ b/GitPractice/hello.txt
+@@ -1,4 +1,5 @@
+ Hello Gayathri
++this line is added for patch demo
+ 
+ <<<<<<< HEAD
+ Main branch update
+-- 
+2.39.1.windows.1
+

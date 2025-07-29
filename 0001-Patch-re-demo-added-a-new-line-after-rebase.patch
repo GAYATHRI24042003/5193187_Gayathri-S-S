@@ -1,0 +1,21 @@
+From a437cec463acbf7052ad61e5679c6fc87e4f96da Mon Sep 17 00:00:00 2001
+From: Gayathri <gayathrishankar2404@gmail.com>
+Date: Mon, 28 Jul 2025 22:29:59 +0530
+Subject: [PATCH] Patch re-demo: added a new line after rebase
+
+---
+ GitPractice/hello.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/GitPractice/hello.txt b/GitPractice/hello.txt
+index 068127e..9431a15 100644
+--- a/GitPractice/hello.txt
++++ b/GitPractice/hello.txt
+@@ -6,3 +6,4 @@ Main branch update
+ Rebase demo line
+ >>>>>>> 25ff235 (Added line for rebase demo)
+ Patch demo
++Patch re-demo line
+-- 
+2.39.1.windows.1
+
