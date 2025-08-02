@@ -16,4 +16,6 @@ Git Time Travelling (CodeSignal):
 C Certificate:
 ![C_Cerificate](C_Practice/c_certificate.jpg)
 
+C_Intermediate:
+![C_Cerificate](C_Practice/C_Intermediate.jpg)
 
